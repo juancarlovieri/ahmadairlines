@@ -2,7 +2,5 @@
 !.gitignore
 !/saves
 /saves/*
-!/saves/Vieri\ Stations
-!/saves/Vieri\ Science
-!/saves/Vieri\ Careers
+!/saves/ahmadairlines
 .DS_Store
